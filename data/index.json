@@ -1,5 +1,11 @@
 [
   {
+    "id": "mcp",
+    "category": "ai",
+    "title": "Model Context Protocol (MCP) in AI",
+    "file": "nuggets/ai/mcp.md"
+  },
+  {
     "id": "dead-horse-theory",
     "category": "anti-pattern",
     "title": "Dead Horse Theory",
@@ -96,6 +102,12 @@
     "file": "nuggets/prioritisation/periodic-table.md"
   },
   {
+    "id": "van-westendorp",
+    "category": "pricing",
+    "title": "Van Westendorp Price Sensitivity Meter (PSM)",
+    "file": "nuggets/pricing/van-westendorp.md"
+  },
+  {
     "id": "rice",
     "category": "prioritisation",
     "title": "RICE Score",
@@ -112,12 +124,6 @@
     "category": "prioritisation",
     "title": "Kano Model",
     "file": "nuggets/prioritisation/kano-model.md"
-  },
-  {
-    "id": "johari-window",
-    "category": "psychology",
-    "title": "Johari Window",
-    "file": "nuggets/psychology/johari-window.md"
   },
   {
     "id": "four-risks",
@@ -142,5 +148,11 @@
     "category": "strategy",
     "title": "North Star Metric",
     "file": "nuggets/strategy/north-star.md"
+  },
+  {
+    "id": "johari-window",
+    "category": "psychology",
+    "title": "Johari Window",
+    "file": "nuggets/psychology/johari-window.md"
   }
 ]
