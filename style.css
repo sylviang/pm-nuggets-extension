@@ -1,0 +1,170 @@
+/* === Base Layout === */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e2f;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #141421;
+}
+
+.logo a {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ffcc00;
+}
+
+.links a {
+  color: #ffcc00;
+  margin-left: 1rem;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+a {
+  color: #ffcc00;
+  margin-left: 0.1rem;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+a:visited,
+a:active {
+  color: #ffcc00;
+}
+
+main {
+  flex-grow: 1;
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* === Typography === */
+/*h1 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}*/
+
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  color: #ffcc00;
+}
+
+/* === Nuggets Card View === */
+.nugget-card,
+.nugget-list-item {
+  background: #2c2c3b;
+  padding: 1.5rem 2rem;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+  width: 100%;
+}
+
+.nugget-content {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.updated {
+  font-size: 0.75rem;
+  color: #888;
+  margin-top: 1rem;
+}
+
+/* === Actions === */
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.fav-btn {
+  background: none;
+  border: none;
+  color: #ffcc00;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-right: 0.5rem;
+}
+
+.fav-star {
+  font-size: 1.2rem;
+  color: #ffcc00;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+.tip-id {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+/* === Nuggets List (All/Favourites) === */
+.nugget-list,
+.nugget-link-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem 0;
+  width: 100%;
+}
+
+.nugget-link-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.nugget-link-item a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+.nugget-link-item a:hover {
+  text-decoration: underline;
+}
+
+#tipBox h1, .nugget-content h1 {  
+  font-size: 1.6rem;
+  margin-bottom: -1rem;
+}
+#tipBox em, .nugget-content em { 
+  font-size: 0.75rem;
+  color: #888;
+}
+
+#tipBox img, .nugget-content img { 
+  max-width: 100%; 
+  margin-top: 1rem; 
+}
+
+/* === Footer === */
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+footer a {
+  color: #ffcc00;
+  font-size: 0.8rem;
+}

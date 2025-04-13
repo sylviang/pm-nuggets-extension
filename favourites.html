@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Favourites — Nuggets of Wisdom</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo"><a href="newtab.html">Nuggets of Wisdom</a></div>
+    <div class="links">
+      <a href="newtab.html">Random Nugget</a>
+      <a href="favourites.html" id="favouritesLink">Favourites</a>
+      <a href="all.html" id="allTipsLink">All Nuggets</a>
+    </div>
+  </header>
+
+  <main>
+    <h1>Your Favourite Nuggets</h1>
+    <label for="categoryFilter">Filter by Category:</label>
+    <select id="categoryFilter" style="margin: 1rem 0;"></select>
+    <ul id="favouritesList" class="nugget-list"></ul>
+  </main>
+
+  <footer>© 2025 Nuggets of Wisdom by <a href="https://github.com/sylviang">@sylviang</a>. Inspired by 30 Seconds of Knowledge.</footer>
+
+  <script src="favourites.js"></script>
+  <script src="libs/marked.min.js"></script>
+</body>
+</html>

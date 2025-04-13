@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nuggets of Wisdom</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo"><a href="newtab.html">Nuggets of Wisdom</a></div>
+    <div class="links">
+      <a href="newtab.html">Random Nugget</a>
+      <a href="favourites.html" id="favouritesLink">Favourites</a>
+      <a href="all.html" id="allTipsLink">All Nuggets</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="nugget-card">
+      <div class="nugget-content" id="tipBox"></div>
+      
+      <div class="actions">
+        <button class="fav-btn" id="favBtn" title="Add to Favourites">☆</button>
+        <span class="tip-id" id="tipIdLabel"></span>
+      </div>
+    </div>
+    
+      <!-- Nugget content -->
+      <div class="nugget-content" id="tipBox"></div>
+    </div>
+    
+  </main>
+
+  <footer>© 2025 Nuggets of Wisdom by <a href="https://github.com/sylviang">@sylviang</a>. Inspired by 30 Seconds of Knowledge.</footer>
+
+  <script src="script.js"></script>
+  <script src="libs/marked.min.js"></script>
+
+</body>
+</html>

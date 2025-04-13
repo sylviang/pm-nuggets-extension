@@ -1,0 +1,146 @@
+[
+  {
+    "id": "dead-horse-theory",
+    "category": "anti-pattern",
+    "title": "Dead Horse Theory",
+    "file": "nuggets/anti-pattern/dead-horse-theory.md"
+  },
+  {
+    "id": "double-diamond",
+    "category": "design",
+    "title": "Double Diamond",
+    "file": "nuggets/design/double-diamond.md"
+  },
+  {
+    "id": "jtbd",
+    "category": "discovery",
+    "title": "Jobs To Be Done (JTBD)",
+    "file": "nuggets/discovery/jtbd.md"
+  },
+  {
+    "id": "maslow-needs",
+    "category": "discovery",
+    "title": "Maslow's Hierarchy of Needs",
+    "file": "nuggets/discovery/maslow-needs.md"
+  },
+  {
+    "id": "ost",
+    "category": "discovery",
+    "title": "Opportunity Solution Tree",
+    "file": "nuggets/discovery/ost.md"
+  },
+  {
+    "id": "ishikawa-fishbone",
+    "category": "discovery",
+    "title": "Ishikawa (Fishbone) Diagram",
+    "file": "nuggets/discovery/ishikawa-fishbone.md"
+  },
+  {
+    "id": "chasm",
+    "category": "gtm",
+    "title": "Crossing The Chasm",
+    "file": "nuggets/gtm/chasm.md"
+  },
+  {
+    "id": "product-led-growth",
+    "category": "gtm",
+    "title": "Product-Led Growth (PLG)",
+    "file": "nuggets/gtm/product-led-growth.md"
+  },
+  {
+    "id": "circles",
+    "category": "interview",
+    "title": "CIRCLES Method",
+    "file": "nuggets/interview/circles.md"
+  },
+  {
+    "id": "aarrr",
+    "category": "metrics",
+    "title": "AARRR Pirate Metrics Framework",
+    "file": "nuggets/metrics/aarrr.md"
+  },
+  {
+    "id": "arr",
+    "category": "metrics",
+    "title": "Annual Recurring Revenue (ARR)",
+    "file": "nuggets/metrics/arr.md"
+  },
+  {
+    "id": "arpu",
+    "category": "metrics",
+    "title": "Average Revenue Per User (ARPU)",
+    "file": "nuggets/metrics/arpu.md"
+  },
+  {
+    "id": "nps",
+    "category": "metrics",
+    "title": "Net Promoter Score",
+    "file": "nuggets/metrics/nps.md"
+  },
+  {
+    "id": "40-rule",
+    "category": "pmf",
+    "title": "The 40% Rule",
+    "file": "nuggets/pmf/40-rule.md"
+  },
+  {
+    "id": "painkiller",
+    "category": "pmf",
+    "title": "Candy vs Vitamins vs Painkillers",
+    "file": "nuggets/pmf/painkiller.md"
+  },
+  {
+    "id": "periodic-table",
+    "category": "prioritisation",
+    "title": "20 Product Prioritization Techniques",
+    "file": "nuggets/prioritisation/periodic-table.md"
+  },
+  {
+    "id": "rice",
+    "category": "prioritisation",
+    "title": "RICE Score",
+    "file": "nuggets/prioritisation/rice.md"
+  },
+  {
+    "id": "rocks-pebbles-sand",
+    "category": "prioritisation",
+    "title": "Rocks, Pebbles, Sand",
+    "file": "nuggets/prioritisation/rocks-pebbles-sand.md"
+  },
+  {
+    "id": "kano-model",
+    "category": "prioritisation",
+    "title": "Kano Model",
+    "file": "nuggets/prioritisation/kano-model.md"
+  },
+  {
+    "id": "johari-window",
+    "category": "psychology",
+    "title": "Johari Window",
+    "file": "nuggets/psychology/johari-window.md"
+  },
+  {
+    "id": "four-risks",
+    "category": "risk",
+    "title": "The Four Big Risks",
+    "file": "nuggets/risk/four-risks.md"
+  },
+  {
+    "id": "pmf-concept",
+    "category": "strategy",
+    "title": "Product/Market Fit",
+    "file": "nuggets/strategy/pmf-concept.md"
+  },
+  {
+    "id": "pmf-pyramid",
+    "category": "strategy",
+    "title": "PMF Pyramid",
+    "file": "nuggets/strategy/pmf-pyramid.md"
+  },
+  {
+    "id": "north-star",
+    "category": "strategy",
+    "title": "North Star Metric",
+    "file": "nuggets/strategy/north-star.md"
+  }
+]
