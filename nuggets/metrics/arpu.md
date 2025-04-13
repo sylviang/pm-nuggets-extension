@@ -13,6 +13,6 @@ Why it matters:
 - Useful for benchmarking across segments
 - Helps align product tiers with revenue goals
 
-📄 [Average Revenue Per Unit (ARPU): Definition and How To Calculate](https://www.investopedia.com/terms/a/arpu.asp)
+🔗 [Average Revenue Per Unit (ARPU): Definition and How To Calculate](https://www.investopedia.com/terms/a/arpu.asp)
 
 ![ARPU](../../images/arpu.png)

@@ -16,7 +16,7 @@ Why it matters:
 
 Sean Ellis developed this rule while growing Dropbox, Eventbrite, and other high-growth startups. It continues to be a go-to signal for PMs and founders assessing early traction.
 
-📄 [Measure and improve product/market fit with the 40% test](https://www.reforge.com/guides/measure-and-improve-product-market-fit)  
+🔗 [Measure and improve product/market fit with the 40% test](https://www.reforge.com/guides/measure-and-improve-product-market-fit)  
 🖥️ [The original growth hacker reveals his secrets | Sean Ellis (author of “Hacking Growth”)](https://www.youtube.com/watch?v=VjJ6xcv7e8s)  
 📘 [Hacking Growth](https://amzn.asia/d/8zEFEKX)
 

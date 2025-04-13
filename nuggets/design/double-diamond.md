@@ -9,7 +9,7 @@ The Double Diamond design process is a structured, four-phase approach developed
 - **Develop**: This phase involves generating a wide range of ideas and developing potential solutions, often through brainstorming, prototyping, and user testing.
 - **Deliver**: The final phase focuses on finalizing the chosen solution, testing it rigorously, and implementing it, including post-implementation evaluation. 
 
-📄 [History of the Double Diamond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/history-of-the-double-diamond/)  
-📄 [Framework for Innovation](https://www.designcouncil.org.uk/our-resources/framework-for-innovation/)
+🔗 [History of the Double Diamond](https://www.designcouncil.org.uk/our-resources/the-double-diamond/history-of-the-double-diamond/)  
+🔗 [Framework for Innovation](https://www.designcouncil.org.uk/our-resources/framework-for-innovation/)
 
 ![Double Diamond](../../images/double_diamond.png)

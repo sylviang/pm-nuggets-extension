@@ -11,7 +11,7 @@ Key elements of the Kano Model:
 - Indifferent Features: These features have little to no impact on customer satisfaction, whether present or absent. 
 - Reverse Features: These features, when present, can actually lead to dissatisfaction. 
 
-📄 [The Complete Guide to the Kano Model](https://foldingburritos.com/blog/kano-model/)  
+🔗 [The Complete Guide to the Kano Model](https://foldingburritos.com/blog/kano-model/)  
 🖥️ [Building a Winning UX Strategy Using the Kano Model](https://www.uie.com/kano/)
 
 ![kano model](../../images/kano_model.png)

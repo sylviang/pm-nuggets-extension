@@ -9,6 +9,6 @@ This metaphor helps prioritizs and structure time by separating tasks into:
 
 Fill your schedule with rocks first to ensure long-term goals are met — the rest fills in around them.
 
-📄 [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
+🔗 [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/)
 
 ![Boulders Stones Pebbles](../../images/rocks_pebbles_sand.png)

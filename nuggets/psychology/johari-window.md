@@ -12,6 +12,6 @@ The window is divided into four quadrants:
 
 It’s especially valuable in retrospectives, 360° feedback, or stakeholder alignment sessions.
 
-📘 [Johari Window](https://en.wikipedia.org/wiki/Johari_window)
+🔗 [Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 
 ![Johari Window](../../images/johari_window.jpg)

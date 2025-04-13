@@ -11,6 +11,6 @@ The 5 Levels of the Pyramid:
 4. Esteem Needs – Self-respect, recognition, achievement
 5. Self-Actualization – Fulfilling personal potential, creativity, purpose
 
-📄 [A Theory of Human Motivation](https://psychclassics.yorku.ca/Maslow/motivation.htm#r13)
+🔗 [A Theory of Human Motivation](https://psychclassics.yorku.ca/Maslow/motivation.htm#r13)
 
 ![Maslow's Hierarchy of Needs](../../images/maslow-hierachy-of-needs.webp)

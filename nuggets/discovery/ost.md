@@ -12,6 +12,6 @@ The Opportunity Solution Tree (OST), created by product discovery expert Teresa 
 
 Use OSTs in discovery workshops, roadmap planning, or as a continuous learning tool.
 
-📄 [Opportunity Solution Trees: Visualize Your Discovery to Stay Aligned and Drive Outcomes](https://www.producttalk.org/2020/05/the-opportunity-solution-tree/)
+🔗 [Opportunity Solution Trees: Visualize Your Discovery to Stay Aligned and Drive Outcomes](https://www.producttalk.org/2020/05/the-opportunity-solution-tree/)
 
 ![Opportunity Solution Tree](../../images/ost.webp)

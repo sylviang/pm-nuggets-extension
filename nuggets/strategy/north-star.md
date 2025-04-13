@@ -20,6 +20,6 @@ Examples:
 - Slack: Messages sent
 
 📘 [The North Star Playbook](https://info.amplitude.com/rs/138-CDN-550/images/Amplitude-The-North-Star-Playbook.pdf)  
-📄 [How to Choose & Measure North Star Metrics: Acquisition, Retention, & Monetization](https://www.reforge.com/blog/north-star-metrics)
+🔗 [How to Choose & Measure North Star Metrics: Acquisition, Retention, & Monetization](https://www.reforge.com/blog/north-star-metrics)
 
 ![North Star Metric](../../images/north_star_metric.png)

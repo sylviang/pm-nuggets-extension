@@ -13,6 +13,6 @@ In product management, this often shows up when teams:
 - Add more resources to "fix" fundamentally flawed ideas
 - Can't let go due to sunk cost fallacy
 
-📄 [Dead Horse Theory: How to Resurrect a Failed Project](https://themindcollection.com/dead-horse-theory/)
+🔗 [Dead Horse Theory: How to Resurrect a Failed Project](https://themindcollection.com/dead-horse-theory/)
 
 ![Dead Horse Theory](../../images/dead-horse-theory.webp)

@@ -13,6 +13,6 @@ How to Cross the Chasm:
 - Delay broader expansion until you’ve won the niche
 
 📘 [Crossing the Chasm, 3rd Edition](https://amzn.asia/d/9N1UH5M)  
-📄 [‘Crossing the Chasm’, in Practice](https://a16z.com/crossing-the-chasm-in-practice/)
+🔗 [‘Crossing the Chasm’, in Practice](https://a16z.com/crossing-the-chasm-in-practice/)
 
 ![Crossing the Chasm](../../images/crossing_the_chasm.png)

@@ -6,5 +6,5 @@ Product/Market fit is a concept that originated from Andy Rachleff of Benchmark 
 
 Indicators of lacking product/market fit include slow user growth, weak customer engagement, and prolonged sales cycles. Conversely, when product/market fit is achieved, customer demand surges, usage grows rapidly, and positive word-of-mouth spreads. Startups should focus intensely on reaching this fit, even if it requires significant changes to the product, team, or market strategy. Once attained, product/market fit often compensates for other operational shortcomings, underscoring its vital role in a startup's trajectory.
 
-📄 [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.html)  
+🔗 [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.html)  
 📘 [The Four Steps to the Epiphany](https://www.amazon.sg/Four-Steps-Epiphany-Successful-Strategies/dp/0989200507)

@@ -13,7 +13,7 @@ And in 2005, Anthony Ulwick launched ‘Outcomes-Driven Innovation’ and publis
 TLDR; JTBD is for understanding user needs based on what they are trying to accomplish. It focuses on the user's goals and motivations, not just product features.
 
 📘 [The Innovator's Solution](https://amzn.asia/d/6v2bysW)  
-📄 [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)  
+🔗 [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)  
 🖥️ [Understanding the Job](https://youtu.be/sfGtw2C95Ms?t=41s)  
-📄 [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)  
-📄 [Know the Two — Very — Different Interpretations of Jobs to be Done](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)  
+🔗 [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)  
+🔗 [Know the Two — Very — Different Interpretations of Jobs to be Done](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)  

@@ -12,6 +12,6 @@ Developed by Dave McClure in 2007, AARRR helps startups measure key stages of th
 
 It’s great for startups, growth hacking, and funnel analysis.
 
-📄 [Startup Metrics for Pirates](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
+🔗 [Startup Metrics for Pirates](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 
 ![AARRR Framework](../../images/aarrr.png)

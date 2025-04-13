@@ -12,8 +12,8 @@ Core principles:
 5. Virality and Advocacy Are Embedded: Sharing, collaboration, and network effects are built into the product. It grows through word of mouth and organic distribution.
 6. Product-Qualified Leads (PQLs): Leads are qualified based on product behavior, not marketing fit or sales interaction.
 
-📄 [Inventing Product-Led Growth: How PLG Went From An Idea to the Biggest Trend In Software](https://openviewpartners.com/blog/inventing-product-led-growth/)  
-📄 [What is product-led growth?](https://www.productled.org/foundations/what-is-product-led-growth)  
-📄 [Five steps to starting your product-led growth motion](https://www.lennysnewsletter.com/p/five-steps-to-starting-your-plg-motion)
+🔗 [Inventing Product-Led Growth: How PLG Went From An Idea to the Biggest Trend In Software](https://openviewpartners.com/blog/inventing-product-led-growth/)  
+🔗 [What is product-led growth?](https://www.productled.org/foundations/what-is-product-led-growth)  
+🔗 [Five steps to starting your product-led growth motion](https://www.lennysnewsletter.com/p/five-steps-to-starting-your-plg-motion)
 
 ![PLG](../../images/plg.webp)

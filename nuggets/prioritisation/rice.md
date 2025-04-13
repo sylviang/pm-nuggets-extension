@@ -10,6 +10,6 @@ The RICE framework's key factors are:
 - Confidence: How confident are you in your estimates of reach and impact? 
 - Effort: How much effort (measured in person-months) will it take to implement the initiative?
 
-📄 [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+🔗 [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
 ![rice formula](../../images/formula.png)
