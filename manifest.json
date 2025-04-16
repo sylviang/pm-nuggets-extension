@@ -1,9 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Nuggets of Wisdom",
-  "description": "Become a better product manager by learning one bite-sized concept at a time. One tab at a time.",
+  "description": "Become a better product manager by learning one bite-sized concept, one tab at a time.",
   "version": "1.0",
-  "permissions": ["storage"],
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
@@ -14,6 +13,6 @@
     "128": "images/icon128.png"
   },
   "content_security_policy": {
-    "extension_pages": "script-src 'self'; object-src 'self'"
+  "extension_pages": "script-src 'self'; object-src 'self';"
   }
 }
