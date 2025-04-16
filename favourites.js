@@ -49,9 +49,13 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       const favBtn = document.createElement("button");
       favBtn.className = "fav-btn";
-      favBtn.title = "Favourited";
+      favBtn.title = "Unfavourite";
       favBtn.textContent = "★";
-      favBtn.disabled = true;
+
+      favBtn.onclick = () => {
+        localStorage.removeItem(`favourite-${nugget.id}`);
+        render(filter.value); // Re-render after unfavourite
+      };
 
       const tipId = document.createElement("span");
       tipId.className = "tip-id";
