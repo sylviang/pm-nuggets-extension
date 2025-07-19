@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Nuggets of Wisdom",
   "description": "Become a better product manager by learning one bite-sized concept, one tab at a time.",
-  "version": "1.0",
+  "version": "1.0.1",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },

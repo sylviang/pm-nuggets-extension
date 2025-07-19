@@ -12,10 +12,22 @@
     "file": "nuggets/anti-pattern/dead-horse-theory.md"
   },
   {
+    "id": "design-thinking",
+    "category": "design",
+    "title": "Design Thinking",
+    "file": "nuggets/design/design-thinking.md"
+  },
+  {
     "id": "double-diamond",
     "category": "design",
     "title": "Double Diamond",
     "file": "nuggets/design/double-diamond.md"
+  },
+  {
+    "id": "hooked-model",
+    "category": "design",
+    "title": "The Hooked Model",
+    "file": "nuggets/design/hooked-model.md"
   },
   {
     "id": "jtbd",
@@ -60,6 +72,36 @@
     "file": "nuggets/interview/circles.md"
   },
   {
+    "id": "chestertons-fence",
+    "category": "mental-models",
+    "title": "Chesterton's Fence",
+    "file": "nuggets/mental-models/chestertons-fence.md"
+  },
+  {
+    "id": "first-principles",
+    "category": "mental-models",
+    "title": "First Principles Thinking",
+    "file": "nuggets/mental-models/first-principles.md"
+  },
+  {
+    "id": "hofstadters-law",
+    "category": "mental-models",
+    "title": "Hofstadter's Law",
+    "file": "nuggets/mental-models/hofstadters-law.md"
+  },
+  {
+    "id": "parkinsons-law",
+    "category": "mental-models",
+    "title": "Parkinson's Law",
+    "file": "nuggets/mental-models/parkinsons-law.md"
+  },
+  {
+    "id": "second-order-thinking",
+    "category": "mental-models",
+    "title": "Second-Order Thinking",
+    "file": "nuggets/mental-models/second-order-thinking.md"
+  },
+  {
     "id": "aarrr",
     "category": "metrics",
     "title": "AARRR Pirate Metrics Framework",
@@ -76,6 +118,12 @@
     "category": "metrics",
     "title": "Average Revenue Per User (ARPU)",
     "file": "nuggets/metrics/arpu.md"
+  },
+  {
+    "id": "heart-framework",
+    "category": "metrics",
+    "title": "Heart Framework",
+    "file": "nuggets/metrics/heart-framework.md"
   },
   {
     "id": "nps",
@@ -102,12 +150,6 @@
     "file": "nuggets/prioritisation/periodic-table.md"
   },
   {
-    "id": "van-westendorp",
-    "category": "pricing",
-    "title": "Van Westendorp Price Sensitivity Meter (PSM)",
-    "file": "nuggets/pricing/van-westendorp.md"
-  },
-  {
     "id": "rice",
     "category": "prioritisation",
     "title": "RICE Score",
@@ -126,10 +168,64 @@
     "file": "nuggets/prioritisation/kano-model.md"
   },
   {
+    "id": "johari-window",
+    "category": "psychology",
+    "title": "Johari Window",
+    "file": "nuggets/psychology/johari-window.md"
+  },
+  {
+    "id": "flat-rate",
+    "category": "revenue",
+    "title": "Flat Rate Pricing",
+    "file": "nuggets/revenue/flat-rate.md"
+  },
+  {
+    "id": "subscription",
+    "category": "revenue",
+    "title": "Subscription",
+    "file": "nuggets/revenue/subscription.md"
+  },
+  {
+    "id": "usage-based",
+    "category": "revenue",
+    "title": "Usage-Based Pricing",
+    "file": "nuggets/revenue/usage-based.md"
+  },
+  {
+    "id": "van-westendorp",
+    "category": "revenue",
+    "title": "Van Westendorp Price Sensitivity Meter (PSM)",
+    "file": "nuggets/revenue/van-westendorp.md"
+  },
+  {
+    "id": "virtual-economy",
+    "category": "revenue",
+    "title": "Virtual Economy",
+    "file": "nuggets/revenue/virtual-economy.md"
+  },
+  {
     "id": "four-risks",
     "category": "risk",
     "title": "The Four Big Risks",
     "file": "nuggets/risk/four-risks.md"
+  },
+  {
+    "id": "cynefin-framework",
+    "category": "strategy",
+    "title": "Cynefin Framework",
+    "file": "nuggets/strategy/cynefin-framework.md"
+  },
+  {
+    "id": "north-star",
+    "category": "strategy",
+    "title": "North Star Metric",
+    "file": "nuggets/strategy/north-star.md"
+  },
+  {
+    "id": "okr",
+    "category": "strategy",
+    "title": "Objectives and Key Results (OKRs)",
+    "file": "nuggets/strategy/okr.md"
   },
   {
     "id": "pmf-concept",
@@ -142,17 +238,5 @@
     "category": "strategy",
     "title": "PMF Pyramid",
     "file": "nuggets/strategy/pmf-pyramid.md"
-  },
-  {
-    "id": "north-star",
-    "category": "strategy",
-    "title": "North Star Metric",
-    "file": "nuggets/strategy/north-star.md"
-  },
-  {
-    "id": "johari-window",
-    "category": "psychology",
-    "title": "Johari Window",
-    "file": "nuggets/psychology/johari-window.md"
   }
 ]
