@@ -6,10 +6,82 @@
     "file": "nuggets/ai/mcp.md"
   },
   {
+    "id": "barnacles",
+    "category": "anti-pattern",
+    "title": "Watch Out for Barnacles",
+    "file": "nuggets/anti-pattern/barnacles.md"
+  },
+  {
     "id": "dead-horse-theory",
     "category": "anti-pattern",
     "title": "Dead Horse Theory",
     "file": "nuggets/anti-pattern/dead-horse-theory.md"
+  },
+   {
+    "id": "eponym",
+    "category": "branding",
+    "title": "Eponym",
+    "file": "nuggets/branding/eponym.md"
+  },
+  {
+    "id": "business-model-canvas",
+    "category": "business-models",
+    "title": "Business Model Canvas",
+    "file": "nuggets/business-models/business-model-canvas.md"
+  },
+  {
+    "id": "fractional-ownership",
+    "category": "business-models",
+    "title": "Fractional Ownership",
+    "file": "nuggets/business-models/fractional-ownership.md"
+  },
+  {
+    "id": "microfinance",
+    "category": "business-models",
+    "title": "Microfinance",
+    "file": "nuggets/business-models/microfinance.md"
+  },
+  {
+    "id": "platform-as-a-service",
+    "category": "business-models",
+    "title": "Platform as a Service (PaaS)",
+    "file": "nuggets/business-models/platform-as-a-service.md"
+  },
+  {
+    "id": "rent-instead-of-buy",
+    "category": "business-models",
+    "title": "Rent Instead of Buy",
+    "file": "nuggets/business-models/rent-instead-of-buy.md"
+  },
+  {
+    "id": "white-label",
+    "category": "business-models",
+    "title": "White Label",
+    "file": "nuggets/business-models/white-label.md"
+  },
+  {
+    "id": "logos-pathos-ethos",
+    "category": "communication",
+    "title": "Logos, Pathos, and Ethos",
+    "file": "nuggets/communication/logos-pathos-ethos.md"
+  },
+  {
+    "id": "whiteboard-pens-nib-down",
+    "category": "communication",
+    "title": "Store Whiteboard Pens Nib Down",
+    "file": "nuggets/communication/whiteboard-pens-nib-down.md"
+  },
+  {
+    "id": "dual-track-agile",
+    "category": "delivery",
+    "title": "Dual Track Agile",
+    "file": "nuggets/delivery/dual-track-agile.md"
+  },
+   {
+    "id": "rose-thorn-bud",
+    "category": "delivery",
+    "title": "Rose, Thorn, Bud",
+    "file": "nuggets/delivery/rose-thorn-bud.md"
   },
   {
     "id": "design-thinking",
@@ -30,6 +102,18 @@
     "file": "nuggets/design/hooked-model.md"
   },
   {
+    "id": "non-stacking-tupperware",
+    "category": "metaphor",
+    "title": "Non-stacking Tupperware Should Be Destroyed",
+    "file": "nuggets/metaphor/non-stacking-tupperware.md"
+  },
+  {
+    "id": "underline-bold-italic",
+    "category": "design",
+    "title": "Underline vs Bold vs Italic",
+    "file": "nuggets/design/underline-bold-italic.md"
+  },
+  {
     "id": "jtbd",
     "category": "discovery",
     "title": "Jobs To Be Done (JTBD)",
@@ -48,6 +132,12 @@
     "file": "nuggets/discovery/ost.md"
   },
   {
+    "id": "patnaiks-hierarchy-of-needs",
+    "category": "discovery",
+    "title": "Patnaik's Hierarchy of Needs",
+    "file": "nuggets/discovery/patnaiks-hierarchy-of-needs.md"
+  },
+  {
     "id": "ishikawa-fishbone",
     "category": "discovery",
     "title": "Ishikawa (Fishbone) Diagram",
@@ -64,6 +154,18 @@
     "category": "gtm",
     "title": "Product-Led Growth (PLG)",
     "file": "nuggets/gtm/product-led-growth.md"
+  },
+  {
+    "id": "product-qualified-leads",
+    "category": "gtm",
+    "title": "Product-Qualified Leads (PQLs)",
+    "file": "nuggets/gtm/product-qualified-leads.md"
+  },
+  {
+    "id": "product-self-service",
+    "category": "gtm",
+    "title": "Product Self-Service",
+    "file": "nuggets/gtm/product-self-service.md"
   },
   {
     "id": "circles",
@@ -96,10 +198,22 @@
     "file": "nuggets/mental-models/parkinsons-law.md"
   },
   {
+    "id": "plug-computing",
+    "category": "mental-models",
+    "title": "Plug Computing",
+    "file": "nuggets/mental-models/plug-computing.md"
+  },
+  {
     "id": "second-order-thinking",
     "category": "mental-models",
     "title": "Second-Order Thinking",
     "file": "nuggets/mental-models/second-order-thinking.md"
+  },
+    {
+    "id": "boiling-frog",
+    "category": "metaphor",
+    "title": "Boiling Frog",
+    "file": "nuggets/metaphor/frog-boil.md"
   },
   {
     "id": "aarrr",
@@ -114,6 +228,18 @@
     "file": "nuggets/metrics/arr.md"
   },
   {
+    "id": "churn",
+    "category": "metrics",
+    "title": "Churn",
+    "file": "nuggets/metrics/churn.md"
+  },
+  {
+    "id": "customer-acquisition-cost",
+    "category": "metrics",
+    "title": "Customer Acquisition Cost (CAC)",
+    "file": "nuggets/metrics/customer-acquisition-cost.md"
+  },
+  {
     "id": "arpu",
     "category": "metrics",
     "title": "Average Revenue Per User (ARPU)",
@@ -126,10 +252,58 @@
     "file": "nuggets/metrics/heart-framework.md"
   },
   {
+    "id": "competitor-analysis",
+    "category": "market-analysis",
+    "title": "Competitor Analysis",
+    "file": "nuggets/market-analysis/competitor-analysis.md"
+  },
+  {
+    "id": "competitive-landscape",
+    "category": "market-analysis",
+    "title": "Competitive Landscape",
+    "file": "nuggets/market-analysis/competitive-landscape.md"
+  },
+  {
+    "id": "cost-of-delay",
+    "category": "market-analysis",
+    "title": "Cost of Delay",
+    "file": "nuggets/market-analysis/cost-of-delay.md"
+  },
+  {
+    "id": "total-addressable-market",
+    "category": "market-analysis",
+    "title": "Total Addressable Market (TAM)",
+    "file": "nuggets/market-analysis/total-addressable-market.md"
+  },
+  {
+    "id": "bvir",
+    "category": "metrics",
+    "title": "Big Visible Information Radiator (BVIR)",
+    "file": "nuggets/metrics/bvir.md"
+  },
+  {
+    "id": "csat",
+    "category": "metrics",
+    "title": "Customer Satisfaction Score (CSAT)",
+    "file": "nuggets/metrics/csat.md"
+  },
+  {
     "id": "nps",
     "category": "metrics",
     "title": "Net Promoter Score",
     "file": "nuggets/metrics/nps.md"
+  },
+  {
+    "id": "monthly-recurring-revenue",
+    "category": "metrics",
+    "title": "Monthly Recurring Revenue (MRR)",
+    "file": "nuggets/metrics/monthly-recurring-revenue.md"
+  },
+  {
+    "id": "retention-rate",
+    "category": "metrics",
+    "title": "Retention Rate",
+    "file": "nuggets/metrics/retention-rate.md"
   },
   {
     "id": "40-rule",
@@ -142,6 +316,18 @@
     "category": "pmf",
     "title": "Candy vs Vitamins vs Painkillers",
     "file": "nuggets/pmf/painkiller.md"
+  },
+   {
+    "id": "product-market-fit",
+    "category": "pmf",
+    "title": "Product Market Fit",
+    "file": "nuggets/pmf/product-market-fit.md"
+  },
+  {
+    "id": "eisenhower-matrix",
+    "category": "prioritisation",
+    "title": "Eisenhower Matrix",
+    "file": "nuggets/prioritisation/eisenhower-matrix.md"
   },
   {
     "id": "periodic-table",
@@ -168,16 +354,52 @@
     "file": "nuggets/prioritisation/kano-model.md"
   },
   {
+    "id": "moscow-prioritization",
+    "category": "prioritisation",
+    "title": "MoSCoW Prioritization",
+    "file": "nuggets/prioritisation/moscow-prioritization.md"
+  },
+  {
+    "id": "dual-process-theory",
+    "category": "psychology",
+    "title": "Dual Process Theory",
+    "file": "nuggets/psychology/dual-process-theory.md"
+  },
+  {
+    "id": "flow-theory",
+    "category": "psychology",
+    "title": "Flow Theory",
+    "file": "nuggets/psychology/flow-theory.md"
+  },
+  {
     "id": "johari-window",
     "category": "psychology",
     "title": "Johari Window",
     "file": "nuggets/psychology/johari-window.md"
   },
   {
+    "id": "prospect-theory",
+    "category": "psychology",
+    "title": "Prospect Theory",
+    "file": "nuggets/psychology/prospect-theory.md"
+  },
+  {
+    "id": "captive-product-pricing",
+    "category": "revenue",
+    "title": "Captive Product Pricing",
+    "file": "nuggets/revenue/captive-product-pricing.md"
+  },
+  {
     "id": "flat-rate",
     "category": "revenue",
     "title": "Flat Rate Pricing",
     "file": "nuggets/revenue/flat-rate.md"
+  },
+  {
+    "id": "performance-based-contracting",
+    "category": "revenue",
+    "title": "Performance-Based Contracting",
+    "file": "nuggets/revenue/performance-based-contracting.md"
   },
   {
     "id": "subscription",
@@ -204,10 +426,34 @@
     "file": "nuggets/revenue/virtual-economy.md"
   },
   {
+    "id": "black-swan-events",
+    "category": "risk",
+    "title": "Black Swan Events",
+    "file": "nuggets/risk/black-swan-events.md"
+  },
+  {
     "id": "four-risks",
     "category": "risk",
     "title": "The Four Big Risks",
     "file": "nuggets/risk/four-risks.md"
+  },
+  {
+    "id": "blended-value",
+    "category": "strategy",
+    "title": "Blended Value",
+    "file": "nuggets/strategy/blended-value.md"
+  },
+  {
+    "id": "business-flywheel",
+    "category": "strategy",
+    "title": "The Business Flywheel",
+    "file": "nuggets/strategy/business-flywheel.md"
+  },
+  {
+    "id": "cannibalization",
+    "category": "strategy",
+    "title": "Cannibalization",
+    "file": "nuggets/strategy/cannibalization.md"
   },
   {
     "id": "cynefin-framework",
@@ -238,5 +484,17 @@
     "category": "strategy",
     "title": "PMF Pyramid",
     "file": "nuggets/strategy/pmf-pyramid.md"
+  },
+  {
+    "id": "reverse-innovation",
+    "category": "strategy",
+    "title": "Reverse Innovation",
+    "file": "nuggets/strategy/reverse-innovation.md"
+  },
+  {
+    "id": "beta-testing",
+    "category": "validation",
+    "title": "Beta Testing",
+    "file": "nuggets/validation/beta-testing.md"
   }
 ]
