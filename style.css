@@ -1,10 +1,33 @@
+/* === Theme Variables === */
+:root {
+  --bg-body: #1e1e2f;
+  --bg-header: #141421;
+  --bg-card: #2c2c3b;
+  --text-primary: #fff;
+  --text-muted: #888;
+  --accent: #ffcc00;
+  --shadow: rgba(0, 0, 0, 0.25);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-body: #f5f5f7;
+    --bg-header: #ffffff;
+    --bg-card: #ffffff;
+    --text-primary: #1a1a1a;
+    --text-muted: #666;
+    --accent: #b8860b;
+    --shadow: rgba(0, 0, 0, 0.08);
+  }
+}
+
 /* === Base Layout === */
 body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #1e1e2f;
-  color: #fff;
+  background-color: var(--bg-body);
+  color: var(--text-primary);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -15,23 +38,23 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #141421;
+  background-color: var(--bg-header);
 }
 
 .logo a {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #ffcc00;
+  color: var(--accent);
 }
 
 .links a {
-  color: #ffcc00;
+  color: var(--accent);
   margin-left: 1rem;
   text-decoration: none;
   font-size: 0.9rem;
 }
 a {
-  color: #ffcc00;
+  color: var(--accent);
   margin-left: 0.1rem;
   text-decoration: none;
   font-size: 0.9rem;
@@ -39,7 +62,7 @@ a {
 
 a:visited,
 a:active {
-  color: #ffcc00;
+  color: var(--accent);
 }
 
 main {
@@ -62,17 +85,17 @@ h2 {
   font-size: 1.3rem;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
-  color: #ffcc00;
+  color: var(--accent);
 }
 
 /* === Nuggets Card View === */
 .nugget-card,
 .nugget-list-item {
-  background: #2c2c3b;
+  background: var(--bg-card);
   padding: 1.5rem 2rem;
   border-radius: 10px;
   margin-bottom: 1.5rem;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 6px 16px var(--shadow);
   width: 100%;
 }
 
@@ -98,7 +121,7 @@ h2 {
 .fav-btn {
   background: none;
   border: none;
-  color: #ffcc00;
+  color: var(--accent);
   font-size: 1.5rem;
   cursor: pointer;
   margin-right: 0.5rem;
@@ -106,14 +129,14 @@ h2 {
 
 .fav-star {
   font-size: 1.2rem;
-  color: #ffcc00;
+  color: var(--accent);
   margin-right: 0.5rem;
   cursor: pointer;
 }
 
 .tip-id {
   font-size: 0.8rem;
-  color: #888;
+  color: var(--text-muted);
 }
 
 /* === Nuggets List (All/Favourites) === */
@@ -134,7 +157,7 @@ h2 {
 }
 
 .nugget-link-item a {
-  color: #ffcc00;
+  color: var(--accent);
   text-decoration: none;
 }
 
@@ -146,9 +169,9 @@ h2 {
   font-size: 1.6rem;
   margin-bottom: -1rem;
 }
-#tipBox em, .nugget-content em { 
+#tipBox em, .nugget-content em {
   font-size: 0.75rem;
-  color: #888;
+  color: var(--text-muted);
 }
 
 #tipBox img, .nugget-content img { 
@@ -161,10 +184,10 @@ footer {
   text-align: center;
   padding: 1rem;
   font-size: 0.8rem;
-  color: #888;
+  color: var(--text-muted);
 }
 
 footer a {
-  color: #ffcc00;
+  color: var(--accent);
   font-size: 0.8rem;
 }

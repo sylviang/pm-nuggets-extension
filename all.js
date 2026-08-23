@@ -1,6 +1,13 @@
+function formatCategory(cat) {
+  const acronyms = ["ai", "pmf", "gtm"];
+  if (acronyms.includes(cat)) return cat.toUpperCase();
+  return cat.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
   const container = document.getElementById("allNuggetsByCategory");
   const filter = document.getElementById("categoryFilter");
+  const searchInput = document.getElementById("searchInput");
 
   const res = await fetch("data/index.json");
   const nuggets = await res.json();
@@ -13,28 +20,35 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   const categories = Object.keys(grouped);
   filter.innerHTML = '<option value="all">All</option>' +
-    categories.map(c => `<option value="${c}">${c}</option>`).join("");
+    categories.map(c => `<option value="${c}">${formatCategory(c)}</option>`).join("");
 
-  filter.addEventListener("change", () => render(filter.value));
+  filter.addEventListener("change", () => render(filter.value, searchInput.value));
+  searchInput.addEventListener("input", () => render(filter.value, searchInput.value));
 
-  function render(selectedCategory = "all") {
+  function render(selectedCategory = "all", searchQuery = "") {
     container.innerHTML = "";
+    const query = searchQuery.toLowerCase().trim();
 
     const visibleGroups = selectedCategory === "all"
       ? Object.entries(grouped)
       : [[selectedCategory, grouped[selectedCategory]]];
 
     visibleGroups.forEach(([category, items]) => {
+      const filtered = query
+        ? items.filter(n => n.title.toLowerCase().includes(query))
+        : items;
+
+      if (filtered.length === 0) return;
       const section = document.createElement("section");
 
       const heading = document.createElement("h2");
-      heading.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+      heading.textContent = formatCategory(category);
       section.appendChild(heading);
 
       const list = document.createElement("ul");
       list.className = "nugget-link-list";
 
-      items.forEach(nugget => {
+      filtered.forEach(nugget => {
         const li = document.createElement("li");
         li.className = "nugget-link-item";
 

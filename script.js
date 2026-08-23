@@ -51,8 +51,12 @@ if (nuggetParam) {
   fetch("data/index.json")
     .then(res => res.json())
     .then(nuggets => {
-      const random = nuggets[Math.floor(Math.random() * nuggets.length)];
-      const nuggetId = random.id;
-      renderNugget(random.file, nuggetId);
+      const lastShown = localStorage.getItem("lastShownNugget");
+      const candidates = nuggets.length > 1
+        ? nuggets.filter(n => n.id !== lastShown)
+        : nuggets;
+      const random = candidates[Math.floor(Math.random() * candidates.length)];
+      localStorage.setItem("lastShownNugget", random.id);
+      renderNugget(random.file, random.id);
     });
 }

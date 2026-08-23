@@ -1,3 +1,9 @@
+function formatCategory(cat) {
+  const acronyms = ["ai", "pmf", "gtm"];
+  if (acronyms.includes(cat)) return cat.toUpperCase();
+  return cat.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
   const list = document.getElementById("favouritesList");
   const filter = document.getElementById("categoryFilter");
@@ -72,7 +78,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Populate filter options
   const categories = [...new Set(allNuggets.map(n => n.category))];
   filter.innerHTML = '<option value="all">All</option>' +
-    categories.map(cat => `<option value="${cat}">${cat}</option>`).join("");
+    categories.map(cat => `<option value="${cat}">${formatCategory(cat)}</option>`).join("");
   filter.onchange = () => render(filter.value);
 
   render(); // Initial load

@@ -1,14 +1,23 @@
 # Rose, Thorn, Bud
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-16_
 
-**Rose, Thorn, Bud** is a simple retrospective framework using a rose metaphor to balance reflection on successes, challenges, and opportunities. It's ideal for sprint retrospectives, feature post-mortems, or quarterly reviews. Use after product launches to capture what resonated with users (roses), what friction emerged (thorns), and what new opportunities surfaced (buds). The framework keeps retrospectives balanced and forward-looking.
+Rose, Thorn, Bud is a simple yet powerful retrospective framework used in agile teams to reflect on recent work. Its visual metaphor makes it accessible and encourages balanced feedback—celebrating wins while identifying challenges and opportunities.
 
-**The three elements**:
-- **Rose** - What went well? Wins, successes, highlights worth celebrating
-- **Thorn** - What were the challenges? Pain points, blockers, areas for improvement
-- **Bud** - What are emerging opportunities? Ideas to explore, potential to unlock
+The three categories:
+- **Rose**: Successes, highlights, or things working well
+- **Thorn**: Challenges, pain points, or obstacles encountered
+- **Bud**: Opportunities for growth, promising ideas, or potential improvements
 
-🔗 [Sketchplanations - Rose, Thorn, Bud](https://sketchplanations.com/rose-thorn-bud)
+The framework's strength lies in its simplicity and visual nature. Unlike traditional retrospectives that can skew negative, this format explicitly balances optimism with constructive critique. Teams can quickly capture feedback and move to actionable next steps.
+
+For product managers:
+- Use at sprint retrospectives to gather team sentiment
+- Apply to product launches to evaluate what worked vs. didn't
+- Facilitate stakeholder reviews with a structured feedback format
+- Keep sessions focused: 5-10 minutes per category maximum
+
+🔗 [Rose, Thorn, Bud Retrospective Template](https://www.teamretro.com/rose-bud-thorn)  
+🔗 [How to Use The Rose, Bud, and Thorn Template](https://stormboard.com/blog/how-to-use-the-rose-bud-and-thorn-design-thinking-template)
 
 ![Rose, Thorn, Bud](../../images/rose-thorn-bud.png)
